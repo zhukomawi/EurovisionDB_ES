@@ -1,2 +1,16 @@
 # EurovisionDB_ES
-Pequeña BBDD gratuita sobre el Festival de Eurovisión desde el año 2000 hasta la actualidad (Solamente las finales). 
+Pequeña BBDD gratuita sobre el Festival de Eurovisión desde el año 2000 hasta la actualidad (Solamente las finales).
+
+# Archivos
+eurovisiondb_mdcs.sql (Crea e inserta las tablas.)
+
+# Ejecucion 
+SOURCE eurovisiondb_mdcs.sql
+
+# Entidad-Relacion
+
+
+
+
+
+
