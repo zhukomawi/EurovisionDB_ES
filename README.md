@@ -9,6 +9,7 @@ SOURCE eurovisiondb_mdcs.sql
 
 # Entidad-Relacion
 
+![Image text](https://github.com/zhukomawi/EurovisionDB_ES/blob/main/ER_EurovisionV1.png)
 
 
 
